@@ -1,2 +1,4 @@
 ﻿  AssaultCubeTrainer.cpp
-  AssaultCubeTrainer.vcxproj -> C:\Users\caude\source\repos\AssaultCubeTrainer\Debug\AssaultCubeTrainer.exe
+C:\Users\caude\Documents\GitHub\AssaultCube-Trainer\AssaultCubeTrainer\AssaultCubeTrainer.cpp(24): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\sdkddkver.h(216): note: see previous definition of '_WIN32_WINNT'
+  AssaultCubeTrainer.vcxproj -> C:\Users\caude\Documents\GitHub\AssaultCube-Trainer\Debug\AssaultCubeTrainer.exe
