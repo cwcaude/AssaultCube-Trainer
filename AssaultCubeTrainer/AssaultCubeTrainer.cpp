@@ -43,7 +43,7 @@ DWORD AmmoOffsets[] = { 0x384, 0x14, 0x0 };		//Offsets found to Navigate by Poin
 
 //Health variables
 bool HealthStatus;
-BYTE HealthValue[] = { 0x39, 0x5, 0x0, 0x0 };	//Value written to the memory addres of Health
+BYTE HealthValue[] = { 0xff, 0xff, 0x0, 0x0 };	//Value written to the memory addres of Health
 DWORD HealthBaseAddress = { 0x00509B74 };		//Static Address found to point to Health
 DWORD HealthOffsets[] = { 0xf8 };				//Offsets found to Navigate by Pointer Arithmetic to the Address containing Ammo
 
